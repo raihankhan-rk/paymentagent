@@ -2,6 +2,14 @@
 
 A DeFi payment agent chatbot built with XMTP for messaging and Mem0 for persistent memory. The agent helps users manage crypto payments while maintaining context of conversations.
 
+## Demo Video
+
+<a href="https://www.loom.com/share/fa927432f04b40ffba8754bc4f03d90b?sid=2b672665-706a-4bda-9ac0-40b8e72d2152" target="_blank">
+</a>
+
+*Click the image above to watch the demo video*
+
+
 ## Features
 
 - **XMTP Messaging**: Secure, decentralized messaging protocol
